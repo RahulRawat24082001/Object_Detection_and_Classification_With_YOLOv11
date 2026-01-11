@@ -9,6 +9,7 @@ This project allows users to:
 * Search images based on detected objects
 * View **bounding boxes**, **class names**, and **confidence scores**
 * **Export detection results as JSON**
+
 ---
 
 ## 🚀 Features
@@ -225,5 +226,6 @@ This project is for **educational and experimental purposes**.
 ### 👨‍💻 Developed by Rahul Rawat
 
 Certified & Working AI Developer 🚀
+
 
 
